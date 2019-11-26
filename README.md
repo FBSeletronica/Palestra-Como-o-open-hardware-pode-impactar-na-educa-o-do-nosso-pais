@@ -25,7 +25,7 @@ Para isso, faça os seguintes passos:
 - Solicite um Pull Request
 
 
-Veja a lista completa de [contribuiudores]https://github.com/FBSeletronica/Palestra-Como-o-open-hardware-pode-impactar-na-educa-o-do-nosso-pais/graphs/contributors) desse projeto.
+Veja a lista completa de [contribuiudores](https://github.com/FBSeletronica/Palestra-Como-o-open-hardware-pode-impactar-na-educa-o-do-nosso-pais/graphs/contributors) desse projeto.
 
 
 #### Discussões sobre melhorias ou criticas devem ser feitas nas [Issues](https://github.com/FBSeletronica/Palestra-Como-o-open-hardware-pode-impactar-na-educa-o-do-nosso-pais/issues)
